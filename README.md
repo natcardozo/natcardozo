@@ -9,6 +9,8 @@
   <img align="center" alt="Nathalia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nathalia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nathalia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Nathalia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="right" alt="Nathalia-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif?cid=ecf05e478ee5tqg07ekj4pzd9mmt9151ol9dxdji1qieklra&rid=giphy.gif&ct=g">
 </div>
   
